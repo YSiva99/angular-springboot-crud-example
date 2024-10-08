@@ -1,5 +1,2 @@
-# angular-springboot-crud-example
-https://www.javaguides.net/2021/08/angular-12-spring-boot-crud-example.html
+# Developed an Employee Application with a full-stack architecture, utilizing Angular for the front end and Spring Boot for the back end, implementing CRUD operations.
 
-# angular-springboot-crud-example - complete tutorial
-https://www.javaguides.net/2021/08/angular-crud-example-with-spring-boot.html
